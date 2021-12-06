@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   About Shivam👼️
 </h2>
 <p align="left">
-  <b>:man_technologist:Shivam works as a Visiting ML Engineer with DeepKapha’s core researchers and is also a part of the founding team of LiveAi, developing and managing the platform for learners</b>. 
+  <b>:man_technologist:Shivam worked as a Visiting ML Engineer with DeepKapha’s core researchers and is also a part of the founding team of LiveAi, developing and managing the platform for learners</b>. 
 </p>
 <p align="left">  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=sonishivam10&show_icons=true&theme=gotham">
