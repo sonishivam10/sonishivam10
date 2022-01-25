@@ -10,19 +10,30 @@ Here are some ideas to get you started:
 <h2 align="left">
   Hello there! This is Shivam Soni. 👋
 </h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sonishivama">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-  </a>
-  <a href="https://twitter.com/shivamsoni1998">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-  </a> 
-</p>
+
 <h2 >
   About Shivam👼️
 </h2>
 <p align="left">
-  <b>:man_technologist:Shivam worked as a Visiting ML Engineer with DeepKapha’s core researchers and is also a part of the founding team of LiveAi, developing and managing the platform for learners</b>. 
+  <b>:man_technologist: ML Engineer and Software Developer by profession,
+ Shivam has been working around the globe and have been to a couple of
+ international events where he strongly competed with AI researchers.<br>
+
+Shivam has strong hands-on experience in Rapid Prototyping- POC/development for AI/ML use-cases.
+</b>
+<br>
+
+Other Achievements:
+<br>
+<b>Prize Winner - Digital Olympics International Olympiad (Moscow, Russia):</b>
+<br>
+● One of the top 30 finalists from all over the world selected for Finals in Moscow, Russia
+● Organized by Rossotrudnichestvo
+
+<b>Represented India at "Qatar International Cyber Security Competition" in Fake News Detection Contest:</b>
+<br>
+● Participated amongst Ph.D. Scholars
+● Secured 8th position out of 16 teams from all over the world.
 </p>
 <p align="left">  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=sonishivam10&show_icons=true&theme=gotham">
