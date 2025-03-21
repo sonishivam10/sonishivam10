@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="left">
   <b>:man_technologist: Shivam is a skilled Software Engineer with a 4+ yrs of experience and proven track record in designing and optimizing backend systems for scalable and high-performing applications. 
 
-Proficient in Python, and database technologies such as PostgreSQL and MongoDB. 
+Proficient in Python, Golang, and database technologies such as PostgreSQL and MongoDB. 
 Demonstrates expertise in developing REST and gRPC microservices, enhancing system performance, and implementing CI/CD pipelines. 
 Adept at collaborating across teams to deliver feature-rich products, ensuring high availability, and driving innovation through efficient coding practices and cutting-edge technologies.
 
